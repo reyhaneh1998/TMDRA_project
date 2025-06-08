@@ -88,6 +88,87 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "https://reyhaneh1998.github.io/TMDRA_project/images/marissa-grootes-flRm0z3MEoA-unsplash/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "marissa-grootes-flRm0z3MEoA-unsplash"
+                ]
+            },
+            "height": 4000,
+            "width": 3000,
+            "items": [
+                {
+                    "id": "https://reyhaneh1998.github.io/TMDRA_project/images/marissa-grootes-flRm0z3MEoA-unsplash/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://reyhaneh1998.github.io/TMDRA_project/images/marissa-grootes-flRm0z3MEoA-unsplash/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://reyhaneh1998.github.io/TMDRA_project/images/marissa-grootes-flRm0z3MEoA-unsplash/full/max/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 94,
+                                                "height": 125
+                                            },
+                                            {
+                                                "width": 188,
+                                                "height": 250
+                                            },
+                                            {
+                                                "width": 375,
+                                                "height": 500
+                                            },
+                                            {
+                                                "width": 750,
+                                                "height": 1000
+                                            },
+                                            {
+                                                "width": 1500,
+                                                "height": 2000
+                                            },
+                                            {
+                                                "width": 3000,
+                                                "height": 4000
+                                            }
+                                        ],
+                                        "profile": "level0",
+                                        "width": 3000,
+                                        "id": "https://reyhaneh1998.github.io/TMDRA_project/images/marissa-grootes-flRm0z3MEoA-unsplash",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 4000
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://reyhaneh1998.github.io/TMDRA_project/images/marissa-grootes-flRm0z3MEoA-unsplash/canvas/"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
